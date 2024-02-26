@@ -1,3 +1,6 @@
+Prliminares:
+Antes de correr el poryecto es necesario descargar e incluir en el proyecto las librerias que se encuentran en la carpeta "LibrariesAguileraEsclasansLeizaola"
+
 Proyecto: Sistema Hormiga - Algoritmo de Optimización
 Este proyecto implementa el algoritmo de optimización conocido como "Sistema Hormiga" (Ant System) en Java. El objetivo del algoritmo es encontrar el camino óptimo entre un vértice de inicio y un vértice de destino en un grafo ponderado utilizando listas de adyacencia.
 
